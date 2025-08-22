@@ -138,5 +138,5 @@ pip install -r requirements.txt
 
 • **Dataset:** [California Housing Dataset (Scikit-learn)](https://scikit-learn.org/stable/datasets/real_world.html#california-housing-dataset)
 
-• **Framework:** [Streamlit](https://streamlit.io/)
+• **Framework:** [Streamlit](https://streamlit.io/) 
 
